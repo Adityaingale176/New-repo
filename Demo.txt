@@ -6,4 +6,6 @@ echo "Welcome to PHP";
 
 //Pls review once
 
+THis update is done from the intellij IDEA
+
 ?>
